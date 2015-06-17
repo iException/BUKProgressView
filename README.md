@@ -1,5 +1,5 @@
 # BUKProgressView
-It is a custom ProgressView, you can change color & image.
+It is a custom progress view, you can change color & image.
 
 # License
 MIT
