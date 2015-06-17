@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "BUKProgressView"
   s.version      = "0.0.1"
   s.summary      = "It is a custom progress view, you can change color & image."
-  s.description  = "It is a custom progress view, you can change color & image."
+  s.description  = "It is a custom progress view, you can change color & image. Join us: shaozhengxingok@126.com"
   s.homepage     = "https://github.com/iException/BUKProgressView"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
