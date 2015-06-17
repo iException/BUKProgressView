@@ -1,4 +1,4 @@
 # BUKSlideView
 
 # License
-## MIT
+MIT
